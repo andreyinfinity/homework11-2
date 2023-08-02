@@ -1,4 +1,4 @@
-def str_func(string: str) -> str:
+def str_upper(string: str) -> str:
     """
     Возвращает текст большими буквами.
     :param string:
